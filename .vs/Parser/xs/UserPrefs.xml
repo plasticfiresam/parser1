@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{2CAD08DB-E6B9-4308-A3F9-FCBAF93ADE30}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Parser/ApplicationContext.cs">
+    <Files>
+      <File FileName="Parser/Program.cs" Line="11" Column="26" />
+      <File FileName="Parser/AvitoParser.cs" Line="20" Column="53" />
+      <File FileName="Parser/AvitoProduct.cs" Line="38" Column="41" />
+      <File FileName="Parser/OfferData.cs" Line="23" Column="6" />
+      <File FileName="Parser/DocumentParser.cs" Line="1" Column="1" />
+      <File FileName="Parser/OfferParser.cs" Line="1" Column="1" />
+      <File FileName="Parser/AvitoSelector.cs" Line="37" Column="94" />
+      <File FileName="Parser/AvitoLinks.cs" Line="11" Column="23" />
+      <File FileName="Parser/Seller.cs" Line="10" Column="28" />
+      <File FileName="Parser/ApplicationContext.cs" Line="4" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Parser" expanded="True">
+            <Node name="Parser" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="ApplicationContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Parser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/pvs/RiderProjects/Parser/Parser/AvitoParser.cs" relfile="Parser/AvitoParser.cs" line="55" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
